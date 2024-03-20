@@ -1,0 +1,21 @@
+[
+  "The message could not be sent because this user is not currently following you",
+  "The message could not be sent because you are not currently following this user",
+  "You cannot reply to this customer because the last message was sent more than 72 hours ago.",
+  "No customers found.",
+  "This user may not have received your message due to their privacy settings",
+  "This message violates our Community Guidelines. We restrict some content and actions to protect our community.",
+  "You are sending messages too quickly. Calm down.",
+  "Due to repeated Community Guidelines violations, you have been temporarily blocked from sending and receiving messages.",
+  "Sending message failed",
+  "You're posting comments too quickly",
+  "Cannot comment on this post",
+  "You're posting the same comment too many times",
+  "This video is under review. Commenting is temporarily disabled",
+  "Failed to send comment",
+  "This live post has ended. You cannot comment here.",
+  "This review has already been answered.",
+  "Cannot like this comment",
+  "Cannot unlike this comment",
+  "Cannot delete this conversation"
+]

@@ -1,0 +1,95 @@
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:37
+msgid "The message could not be sent because this user is not currently following you"
+msgstr "ไม่สามารถส่งข้อความได้เนื่องจากผู้ใช้รายนี้ไม่ได้ติดตามคุณอยู่ในขณะนี้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:48
+msgid "The message could not be sent because you are not currently following this user"
+msgstr "ไม่สามารถส่งข้อความได้เนื่องจากคุณไม่ได้ติดตามผู้ใช้รายนี้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:59
+msgid "You cannot reply to this customer because the last message was sent more than 72 hours ago."
+msgstr "คุณไม่สามารถตอบกลับลูกค้ารายนี้ได้เนื่องจากข้อความล่าสุดถูกส่งไปนานกว่า 72 ชั่วโมงที่ผ่านมา"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:70
+msgid "No customers found."
+msgstr "ไม่พบลูกค้า"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:81
+msgid "This user may not have received your message due to their privacy settings"
+msgstr "ผู้ใช้รายนี้อาจไม่ได้รับข้อความของคุณเนื่องจากการตั้งค่าความเป็นส่วนตัว"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:92
+msgid "This message violates our Community Guidelines. We restrict some content and actions to protect our community."
+msgstr "ข้อความนี้ละเมิดหลักเกณฑ์ของชุมชนของเรา เราจำกัดเนื้อหาและการดำเนินการบางอย่างเพื่อปกป้องชุมชนของเรา"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:103
+msgid "You are sending messages too quickly. Calm down."
+msgstr "คุณกำลังส่งข้อความเร็วเกินไป ใจเย็นๆ"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:114
+msgid "Due to repeated Community Guidelines violations, you have been temporarily blocked from sending and receiving messages."
+msgstr "เนื่องจากการละเมิดหลักเกณฑ์ของชุมชนซ้ำแล้วซ้ำเล่า คุณจึงถูกบล็อกไม่ให้ส่งและรับข้อความชั่วคราว"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:125
+msgid "Sending message failed"
+msgstr "ส่งข้อความล้มเหลว"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:329
+msgid "You're posting comments too quickly"
+msgstr "คุณโพสต์ความคิดเห็นเร็วเกินไป"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:340
+msgid "Cannot comment on this post"
+msgstr "ไม่สามารถแสดงความคิดเห็นในโพสต์นี้ได้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:351
+msgid "You're posting the same comment too many times"
+msgstr "คุณโพสต์ความคิดเห็นเดียวกันหลายครั้งเกินไป"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:362
+msgid "This video is under review. Commenting is temporarily disabled"
+msgstr "วิดีโอนี้อยู่ระหว่างการตรวจสอบ การแสดงความคิดเห็นถูกปิดใช้งานชั่วคราว"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:386
+msgid "Failed to send comment"
+msgstr "ไม่สามารถส่งความคิดเห็น"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:398
+msgid "This live post has ended. You cannot comment here."
+msgstr "โพสต์สดนี้สิ้นสุดแล้ว คุณไม่สามารถแสดงความคิดเห็นที่นี่ได้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:409
+msgid "This review has already been answered."
+msgstr "รีวิวนี้ได้รับการตอบแล้ว"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:448
+msgid "Cannot like this comment"
+msgstr "ไม่ชอบความคิดเห็นนี้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:454
+msgid "Cannot unlike this comment"
+msgstr "ไม่สามารถเลิกชอบความคิดเห็นนี้ได้"
+
+#, elixir-format
+#: lib/pancake_v2_web/controllers/v1/tiktok_message_controller.ex:494
+msgid "Cannot delete this conversation"
+msgstr "ไม่สามารถลบการสนทนานี้ได้"
+
